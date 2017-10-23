@@ -1,0 +1,5 @@
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\bin\Release\Project.Entities.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\bin\Release\Project.Entities.pdb
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\obj\Release\Project.Entities.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\obj\Release\Project.Entities.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\obj\Release\Project.Entities.pdb

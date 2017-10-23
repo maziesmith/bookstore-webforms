@@ -1,0 +1,14 @@
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Util.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Util.pdb
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Entities.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Entities.pdb
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\obj\Release\Project.Util.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\obj\Release\Project.Util.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Util\obj\Release\Project.Util.pdb
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Util.dll
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Util.pdb
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Entities.dll
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\bin\Release\Project.Entities.pdb
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\obj\Release\Project.Util.csprojResolveAssemblyReference.cache
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\obj\Release\Project.Util.dll
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Util\obj\Release\Project.Util.pdb

@@ -1,0 +1,15 @@
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Entities\bin\Debug\Project.Entities.dll
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Entities\bin\Debug\Project.Entities.pdb
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Entities\obj\Debug\Project.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Entities\obj\Debug\Project.Entities.dll
+C:\Users\ttref\Desktop\ProjetoBookstore\Project.Entities\obj\Debug\Project.Entities.pdb
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\bin\Debug\Project.Entities.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\bin\Debug\Project.Entities.pdb
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\obj\Debug\Project.Entities.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\obj\Debug\Project.Entities.dll
+C:\Users\COTI\Desktop\ProjetoBookstore\Project.Entities\obj\Debug\Project.Entities.pdb
+D:\Bookstore\Project.Entities\bin\Debug\Project.Entities.dll
+D:\Bookstore\Project.Entities\bin\Debug\Project.Entities.pdb
+D:\Bookstore\Project.Entities\obj\Debug\Project.Entities.csprojResolveAssemblyReference.cache
+D:\Bookstore\Project.Entities\obj\Debug\Project.Entities.dll
+D:\Bookstore\Project.Entities\obj\Debug\Project.Entities.pdb

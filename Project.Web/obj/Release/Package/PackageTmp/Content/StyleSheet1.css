@@ -1,0 +1,91 @@
+﻿/*Formato MasterPage*/
+
+body {
+    background-color: rgba(173, 255, 47, 0.77);
+    background: url("/Images/background.jpg") fixed no-repeat;
+    background-size: 100% 100%;
+}
+
+#barraPrincipal {
+    background-color: #c2c2c2;
+}
+
+#botoesMasterPage {
+    float: right;
+}
+
+/*Formato TextBoxes*/
+
+.txtNumero {
+    width: 90px;
+}
+
+.txtCep {
+    width: 150px;
+}
+
+.quantidade {
+    width: 80px;
+}
+
+
+/*Espaçadores*/
+
+.spaceBotton100 {
+    margin-bottom: 100px;
+}
+
+.spaceTop80{
+    margin-top: 80px;
+}
+
+.height50{
+    height: 50px;
+}
+
+.paddingLR0{
+    padding-right: 0px; padding-left: 0px;
+}
+.paddingL0{
+    padding-left: 0px;
+}
+
+/*formato de validação do jQuery*/
+
+label.error {
+    color: red;
+    margin-left: 10px;
+}
+
+input.error {
+    border: 1px solid red;
+}
+
+select.error {
+    border: 1px solid red;
+}
+
+/*Formato Texto*/
+
+.grey{
+    color: #c2c2c2;
+}
+
+.font12{
+    font-size: 12px;
+}
+
+/*Fomato Geral*/
+
+.bg-lightgrey{
+    background-color: lightgrey;
+}
+
+.bg-defaultGrey{
+    background-color: #c2c2c2;
+}
+
+.footerDefault{
+    text-align:right; 
+    padding-top:20px;
+}
